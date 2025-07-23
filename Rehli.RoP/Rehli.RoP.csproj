@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>Rehli.RoP</AssemblyName>
+        <RootNamespace>Rehli.RoP</RootNamespace>
+        <PackageId>Rehli.RoP</PackageId>
+        <Title>Rehli.RoP</Title>
+        <Authors>rehli</Authors>
+        <Description>Library to simplify and enhance the handling of results</Description>
+        <PackageProjectUrl>https://github.com/rehli/RoP</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/rehli/RoP</RepositoryUrl>
+        <Company>Rehli.RoP</Company>
+        <Product>Rehli.RoP</Product>
+        <TargetFramework>net9.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dunet" Version="1.11.3" />
+    </ItemGroup>
+
+</Project>
