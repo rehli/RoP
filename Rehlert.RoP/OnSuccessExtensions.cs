@@ -1,4 +1,4 @@
-namespace Rehlert.RoP.Extensions;
+namespace Rehlert.RoP;
 
 public static class OnSuccessExtensions
 {
